@@ -1,0 +1,25 @@
+body {
+    background-color: #f4f6f9;
+}
+
+.app-navbar {
+    background-color: #1f2a44;
+}
+
+.summary-card {
+    box-shadow: 0 1px 3px rgba(31, 42, 68, 0.08);
+}
+
+.card {
+    border: 0;
+    box-shadow: 0 1px 3px rgba(31, 42, 68, 0.08);
+}
+
+.summary-card.border-start {
+    border-left-width: 4px !important;
+}
+
+.table > :not(caption) > * > * {
+    padding-top: 0.85rem;
+    padding-bottom: 0.85rem;
+}

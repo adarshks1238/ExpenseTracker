@@ -1,0 +1,11 @@
+# Secrets
+.env
+
+# Composer dependencies (restored with `composer install`)
+/vendor/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
